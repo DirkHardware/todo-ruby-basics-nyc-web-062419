@@ -12,9 +12,9 @@ def argue(ment)
   ment
 end
 
-def greeting(arg1, arg2)
-  arg1
-  arg2
+def greeting(greeting, name)
+  greeting
+  name
 end
 
 def return_a_value
